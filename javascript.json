@@ -1,9 +1,7 @@
 {
-	// Marcos Lourinho Snippets do Dev in React, React Native and NodeJS
-	// VSCode Snippets
-	//
-	// create react new component:
-	"react component": {
+
+	"_comment": "Marcos Lourinho Snippets do Dev in React, React Native and NodeJS",
+	"create new react component": {
 		"prefix": "rc",
 		"body": [
 			"import React, {Component} from 'react'",
@@ -23,8 +21,7 @@
 		],
 		"description": "react native new component"
 	},
-	// create react new stateless component:
-	"react stateless component": {
+	"create new react stateless component": {
 		"prefix": "rsc",
 		"body": [
 			"import React from 'react'",
@@ -40,8 +37,7 @@
 		],
 		"description": "reactjs new stateless component"
 	},
-	// create react native new component:
-	"react native component": {
+	"create new react native component": {
 		"prefix": "rnc",
 		"body": [
 			"import React, {Component} from 'react'",
@@ -62,8 +58,7 @@
 		],
 		"description": "react native new component"
 	},
-	// create react native new stateless component:
-	"react native stateless component": {
+	"create new react native stateless component": {
 		"prefix": "rnsc",
 		"body": [
 			"import React, {Component} from 'react'",
@@ -79,8 +74,7 @@
 		],
 		"description": "react native new stateless component"
 	},
-	// create nodejs new controller :
-	"nodejs new controller": {
+	"create new nodejs controller": {
 		"prefix": "nodec",
 		"body": [
 			"",
@@ -130,8 +124,7 @@
 		],
 		"description": "nodejs new controller"
 	},
-	// create nodejs new model
-	"nodejs new model": {
+	"create new nodejs model": {
 		"prefix": "nodem",
 		"body": [
 			"const mongoose = require('mongoose');",
