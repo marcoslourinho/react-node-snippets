@@ -154,4 +154,22 @@
 		],
 		"description": "react native component"
 	},
+	
+	"create react native new style:": {
+		"prefix": "rnst",
+		"body": [
+			"import {StyleSheet} from 'react-native'",
+			"",
+			"const styles = StyleSheet.create({",
+			"",
+			"\tcontainer: {",
+			"\t\tflex: 0,",
+			"\t}",
+			"",
+			"});",
+			"",
+			"export default styles;"
+		],
+		"description": "react native new style"
+	},
 }
